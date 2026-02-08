@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "想望",
+  "base_artist": "Masaharu Fukuyama",
+  "createdAt": "2026-02-08T14:28:54.327481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "想望 - Soubou",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/01_想望_-_Soubou_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "想望",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/02_想望_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "想望",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/03_想望_福山雅治.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想望",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_想望_福山_雅治.txt"
+    }
+  ]
+}
